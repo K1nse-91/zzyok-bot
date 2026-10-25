@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "zzyokbot",
+	"version": "${version}",
+	"name": "ZZYOK BOT",
+	"icon": "assets/zzyokbot/icon.png",
+	"description": "ZZYOK BOT：云仓库、机器人、任务、订阅、修装备等全部 BOT 功能独立 App。",
+	"authors": [
+		"K1nse_"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"zzyokphone-addon": ["cn.zzyok.zzyokphone.bot.BotAddon"]
+	},
+	"depends": {
+		"zzyokphone": ">=1.1.4",
+		"fabricloader": ">=0.19.5",
+		"minecraft": ">=26.2 <26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
