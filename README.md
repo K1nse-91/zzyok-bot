@@ -94,6 +94,14 @@ The app depends on the ZZYOK Phone addon API:
 Use `libs/zzyokphone-addon-api.jar` to compile. Do not bundle those API
 classes into your jar.
 
+## Credits
+
+ZZYOK BOT is built on top of the open-source work of **[@Damomo11](https://github.com/Damomo11)**.
+
+根据 [@Damomo11](https://github.com/Damomo11) 开源的项目制作，感谢原作者开放源码。
+
+Thanks to Damomo11 for making the original project open source.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
